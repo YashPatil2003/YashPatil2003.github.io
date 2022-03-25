@@ -6,5 +6,6 @@
 <img src = "NumerologyNumbers69.png">
 1. 70-1
 2. 68+1
-3. * Technical 
-4. * Secretary
+ * Technical 
+ * Secretary
+5. SHIT
